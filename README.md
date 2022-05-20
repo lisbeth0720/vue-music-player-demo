@@ -43,30 +43,6 @@ npm run build
 <img src = ""/>
 <img src = "" />
 
-
-## 目录
-
-```
-.
-├── build                                       // webpack配置文件
-├── config                                      // webpack的一些配置
-├── dist                                        // 已打包好的目录
-├── express                                     // express启动配置
-├── router                                      // express路由配置
-├── screenshot                                  // 项目截图
-├── src                                         // 源码
-│   ├── api                                     // 接口管理
-│   ├── components                              // 组件
-│   ├── js                                      // 其他js
-│   ├── less                                    // 其他less
-│   ├── router                                  // vue路由配置
-│   ├── store                                   // vuex配置
-│   ├── App.vue                                 // 根组件文件
-│   ├── main.js                                 // 入口文件
-├── static                                      // 静态资源
-    ├── img                                     // 图片
-    ├── data                                    // json数据
-├── index.html                                  // 入口html文件
 .
 ```
 
